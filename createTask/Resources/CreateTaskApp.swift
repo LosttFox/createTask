@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct createTaskApp: App {
+struct CreateTaskApp: App {
     var body: some Scene {
         WindowGroup {
             TaskView()
