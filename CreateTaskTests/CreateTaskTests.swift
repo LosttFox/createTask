@@ -6,9 +6,9 @@
 //
 
 import XCTest
-@testable import createTask
+@testable import CreateTask
 
-final class createTaskTests: XCTestCase {
+final class CreateTaskTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
