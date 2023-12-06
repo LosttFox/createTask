@@ -15,6 +15,7 @@
 		FA3E71A62ADF1D1100BA37C7 /* createTaskUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3E71A52ADF1D1100BA37C7 /* createTaskUITests.swift */; };
 		FA3E71A82ADF1D1100BA37C7 /* createTaskUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3E71A72ADF1D1100BA37C7 /* createTaskUITestsLaunchTests.swift */; };
 		FA8A69CD2B0BFCE700A4D6A6 /* PlayerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8A69CC2B0BFCE700A4D6A6 /* PlayerData.swift */; };
+		FA9D85C52B21003D00417438 /* playerData.json in Resources */ = {isa = PBXBuildFile; fileRef = FA9D85C42B21003D00417438 /* playerData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		FA3E71A52ADF1D1100BA37C7 /* createTaskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = createTaskUITests.swift; sourceTree = "<group>"; };
 		FA3E71A72ADF1D1100BA37C7 /* createTaskUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = createTaskUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		FA8A69CC2B0BFCE700A4D6A6 /* PlayerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerData.swift; sourceTree = "<group>"; };
+		FA9D85C42B21003D00417438 /* playerData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = playerData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,14 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
+		FA9D85C12B20FF0E00417438 /* Raw Data Backup */ = {
+			isa = PBXGroup;
+			children = (
+				FA9D85C42B21003D00417438 /* playerData.json */,
+			);
+			path = "Raw Data Backup";
+			sourceTree = "<group>";
+		};
 		FAD409562AEAF39A006FAF92 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
@@ -148,6 +158,7 @@
 		FAD409572AEAF3B5006FAF92 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				FA9D85C12B20FF0E00417438 /* Raw Data Backup */,
 				FA3E718A2ADF1D0F00BA37C7 /* CreateTaskApp.swift */,
 				FA3E718E2ADF1D1100BA37C7 /* Assets.xcassets */,
 			);
@@ -258,6 +269,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA9D85C52B21003D00417438 /* playerData.json in Resources */,
 				FA3E71922ADF1D1100BA37C7 /* Preview Assets.xcassets in Resources */,
 				FA3E718F2ADF1D1100BA37C7 /* Assets.xcassets in Resources */,
 			);
