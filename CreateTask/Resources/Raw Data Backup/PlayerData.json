@@ -5,7 +5,7 @@
     "uuid": "457fff364f6f4761bf2c4eef4a1b77a0",
     "firstLogin": 1462677715000,
     "playername": "lostfoxx",
-    "lastLogin": 1701823016992,
+    "lastLogin": 1702340845800,
     "displayname": "LostFoxx",
     "achievementsOneTime": [
       "general_first_join",
@@ -759,7 +759,8 @@
       "blitz_no_problem",
       "halloween2017_spooktacular_bingo",
       "halloween2017_all_baskets_2023",
-      "halloween2017_tbr_cryptic_castle_fast"
+      "halloween2017_tbr_cryptic_castle_fast",
+      "christmas2017_hunt_begins_2023"
     ],
     "stats": {
       "Walls3": {
@@ -774,7 +775,7 @@
           "pupper"
         ],
         "chosen_class": "Werewolf",
-        "coins": 1380459,
+        "coins": 1380574,
         "weeklyLosses": 1,
         "plays_standard": 1,
         "deaths_Enderman": 1,
@@ -1176,7 +1177,7 @@
         "werewolf_wither_damage_standard": 8
       },
       "Arcade": {
-        "coins": 9451508,
+        "coins": 9459546,
         "monthly_coins_b": 7413,
         "weekly_coins_b": 8988,
         "weekly_coins_a": 7017,
@@ -1319,7 +1320,7 @@
         "wins_halloween_simulator": 25,
         "wins_grinch_simulator_v2": 33,
         "gifts_grinch_simulator_v2": 2362,
-        "lastTourneyAd": 1660199925102,
+        "lastTourneyAd": 1702340849160,
         "gifts_grinch_simulator_v2_tourney": 1015,
         "losses_grinch_simulator_v2_tourney": 46,
         "wins_grinch_simulator_v2_tourney": 6,
@@ -1662,7 +1663,7 @@
         "dtt_music": true
       },
       "TNTGames": {
-        "coins": 505055,
+        "coins": 505070,
         "record_tntrun": 295,
         "capture_class": "Wither Wizard",
         "deaths_bowspleef": 27,
@@ -1817,7 +1818,7 @@
         "wins_bowspleef": 1
       },
       "MCGO": {
-        "coins": 503548,
+        "coins": 503563,
         "packages": [
           "legacyachievementnewnewnew",
           "achievement_flag_3",
@@ -2177,7 +2178,7 @@
         "games_team": 165,
         "losses_team_normal": 317,
         "losses": 1355,
-        "coins": 1449565,
+        "coins": 1449580,
         "survived_players_kit_mining_team_default": 36,
         "losses_team": 614,
         "survived_players_team": 8180,
@@ -3621,7 +3622,7 @@
         "SkyWars_skywars_rating_10_19_rating": 250,
         "SkyWars_skywars_rating_10_19_position": 26412,
         "free_event_key_skywars_christmas_boxes_2019": true,
-        "skywars_christmas_boxes": 15,
+        "skywars_christmas_boxes": 16,
         "skywars_lunar_boxes": 1,
         "free_event_key_skywars_lunar_boxes_2020": true,
         "chests_opened_kit_attacking_team_scout": 55,
@@ -4409,7 +4410,7 @@
         "heads_tasty_solo": 2
       },
       "Battleground": {
-        "coins": 317567,
+        "coins": 317582,
         "selected_mount": "noble_steed",
         "packages": [
           "legacyachievement3",
@@ -4835,7 +4836,7 @@
         "wins_capturetheflag_blu": 1
       },
       "UHC": {
-        "coins": 1028707,
+        "coins": 1028822,
         "saved_stats": true,
         "clearup_achievement": true,
         "equippedKit": "WORKING_TOOLS",
@@ -4937,7 +4938,7 @@
         "uhc_parkour_2": true
       },
       "HungerGames": {
-        "coins": 197075,
+        "coins": 197090,
         "packages": [
           "fixachievements1",
           "fixachievements2",
@@ -5461,7 +5462,7 @@
         "wins_hunter": 1
       },
       "Quake": {
-        "coins": 968820,
+        "coins": 968835,
         "packages": [
           "achievement_flag_1",
           "elite",
@@ -5596,7 +5597,7 @@
         "activeMasterPerk": "mastery_wild_specialist"
       },
       "Arena": {
-        "coins": 752556,
+        "coins": 752571,
         "keys": 15,
         "magical_chest": 45,
         "packages": [
@@ -5630,7 +5631,7 @@
         "utility": "polymorph"
       },
       "VampireZ": {
-        "coins": 386308,
+        "coins": 386323,
         "human_deaths": 13,
         "gold_bought": 96100,
         "vampire_deaths": 39,
@@ -5678,7 +5679,7 @@
         "frankensteins_monster": 3
       },
       "Walls": {
-        "coins": 1626349,
+        "coins": 1626364,
         "monthly_assists_a": 7,
         "assists": 13,
         "weekly_assists_b": 8,
@@ -5726,7 +5727,7 @@
         "weekly_kills_a": 3
       },
       "GingerBread": {
-        "coins": 687007,
+        "coins": 687022,
         "helmet_active": "HELMET_11",
         "skin_active": "YELLOW_KART;ALT_2",
         "booster_active": "{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:AWESOME,Attributes:[{KartAttributeType:BOOSTER_SPEED,Level:5},{KartAttributeType:DRIFTING_EFFICIENCY,Level:5},{KartAttributeType:BRAKES,Level:5}]}}",
@@ -5796,7 +5797,7 @@
         "gold_trophy_weekly_a": 1
       },
       "SuperSmash": {
-        "coins": 1858019,
+        "coins": 1858034,
         "lastLevel_THE_BULK": 3,
         "ONE_V_JUAN_gamesDay": 3,
         "ONE_V_JUAN_firstGame": 1682894000601,
@@ -6051,7 +6052,7 @@
         "crazywalls_losses_solo_chaos": 1
       },
       "Paintball": {
-        "coins": 932426,
+        "coins": 932441,
         "packages": [
           "achievement_flag_1",
           "ender_hat",
@@ -6413,7 +6414,7 @@
         "eight_two_resources_collected_bedwars": 88973,
         "eight_two_beds_lost_bedwars": 396,
         "eight_two_gold_resources_collected_bedwars": 11168,
-        "coins": 687335,
+        "coins": 698335,
         "losses_bedwars": 729,
         "games_played_bedwars": 854,
         "iron_resources_collected_bedwars": 167278,
@@ -6556,7 +6557,7 @@
         "activeIslandTopper": "islandtopper_rubix_cube",
         "eight_two_entity_explosion_final_deaths_bedwars": 1,
         "entity_explosion_final_deaths_bedwars": 2,
-        "bedwars_christmas_boxes": 15,
+        "bedwars_christmas_boxes": 16,
         "free_event_key_bedwars_christmas_boxes_2017": true,
         "activeDeathCry": "deathcry_gone",
         "four_three_wrapped_present_resources_collected_bedwars": 27,
@@ -7067,7 +7068,23 @@
         "four_four_ultimate_void_final_kills_bedwars": 1,
         "four_four_ultimate_wins_bedwars": 1,
         "eight_two_swap_void_final_deaths_bedwars": 1,
-        "free_event_key_bedwars_halloween_boxes_2023": true
+        "free_event_key_bedwars_halloween_boxes_2023": true,
+        "slumber": {
+          "quest": {
+            "lastStarted": {
+              "npc_reception_start": 1702262865374
+            },
+            "started": {
+              "npc_reception_start": true
+            },
+            "npc": {
+              "talk": {
+                "DoorManNpc": true
+              }
+            }
+          },
+          "bag_type": "MINI_WALLET"
+        }
       },
       "Legacy": {
         "next_tokens_seconds": 18,
@@ -15940,9 +15957,9 @@
             "profile_id": "89c48c18-9414-4909-aa8d-8dcec7c6118d",
             "cute_name": "Lemon"
           },
-          "c33f64e5edd1435a96aa10c0879fad28": {
-            "profile_id": "c33f64e5-edd1-435a-96aa-10c0879fad28",
-            "cute_name": "Lime"
+          "d09bba6f797a4bf39114757fae89c712": {
+            "profile_id": "d09bba6f-797a-4bf3-9114-757fae89c712",
+            "cute_name": "Coconut"
           }
         }
       },
@@ -16279,9 +16296,9 @@
       }
     },
     "eugene": {
-      "dailyTwoKExp": 1701485516481
+      "dailyTwoKExp": 1702262982302
     },
-    "networkExp": 70685360,
+    "networkExp": 70757865,
     "petConsumables": {
       "HAY_BLOCK": 1465,
       "FEATHER": 4553,
@@ -16868,7 +16885,7 @@
         "hat_grinch"
       ]
     },
-    "karma": 14470406,
+    "karma": 14475406,
     "housingMeta": {
       "tutorialStep": "FINISH_FINISHED",
       "allowedBlocks": [
@@ -17515,7 +17532,7 @@
       "supersmash_handyman": 1,
       "blitz_rng_master": 1,
       "blitz_master_of_kits": 1,
-      "christmas2017_advent_2023": 4
+      "christmas2017_advent_2023": 9
     },
     "quests": {
       "arcade_gamer": {
@@ -17865,7 +17882,11 @@
           {
             "time": 1700702296498
           }
-        ]
+        ],
+        "active": {
+          "objectives": {},
+          "started": 1702262974882
+        }
       },
       "arcade_winner": {
         "completions": [
@@ -21735,7 +21756,11 @@
           {
             "time": 1673237197919
           }
-        ]
+        ],
+        "active": {
+          "objectives": {},
+          "started": 1702262865421
+        }
       },
       "skywars_corrupt_win": {
         "completions": [
@@ -22779,17 +22804,17 @@
         }
       }
     },
-    "lastAdsenseGenerateTime": 1701485517616,
-    "lastClaimedReward": 1701485517613,
-    "totalRewards": 939,
-    "totalDailyRewards": 864,
+    "lastAdsenseGenerateTime": 1702262984486,
+    "lastClaimedReward": 1702262984483,
+    "totalRewards": 940,
+    "totalDailyRewards": 865,
     "rewardStreak": 1,
     "rewardScore": 1,
     "rewardHighScore": 134,
     "flashingSalePopup": 1472687360714,
     "flashingSalePoppedUp": 8,
     "flashingSaleOpens": 17,
-    "adsense_tokens": 81,
+    "adsense_tokens": 82,
     "SANTA_QUEST_STARTED": true,
     "parkourCompletions": {
       "Skywars": [
@@ -22890,8 +22915,8 @@
       ],
       "Tourney": [
         {
-          "timeStart": 1580628028353,
-          "timeTook": 302429
+          "timeStart": 1702263118611,
+          "timeTook": 181853
         }
       ],
       "mainLobby2017": [
@@ -22926,7 +22951,7 @@
       ]
     },
     "channel": "PARTY",
-    "lastLogout": 1701824680213,
+    "lastLogout": 1702340885829,
     "newPackageRank": "MVP_PLUS",
     "levelUp_MVP_PLUS": 1501302195693,
     "petStats": {
@@ -23159,7 +23184,8 @@
       "for_points_10100": 1699053672324,
       "for_points_10200": 1699141955946,
       "for_points_10300": 1699219407362,
-      "for_points_10400": 1699239020729
+      "for_points_10400": 1699239020729,
+      "for_points_10500": 1702262978337
     },
     "achievementTracking": [
       "bedwars_wins",
@@ -23319,7 +23345,8 @@
       "supersmash_handyman",
       "supersmash_hero_slayer",
       "supersmash_smash_champion",
-      "supersmash_smash_winner"
+      "supersmash_smash_winner",
+      "christmas2017_advent_2023"
     ],
     "onetime_achievement_menu_sort": "most_earned",
     "onetime_achievement_menu_sort_completion_sort": "not_completed_first",
@@ -23498,10 +23525,10 @@
         "2": 58145
       },
       "Tourney": {
-        "0": 27860,
+        "0": 27000,
         "1": 48104,
-        "2": 156517,
-        "3": 62605
+        "2": 37450,
+        "3": 28750
       },
       "mainLobby2017": {
         "0": 23660,
@@ -23530,7 +23557,7 @@
         "2": 42770
       }
     },
-    "achievementPoints": 9580,
+    "achievementPoints": 9615,
     "voting": {
       "total": 3,
       "total_mcsorg": 2,
@@ -23979,7 +24006,7 @@
     "snowball_fight_intro_2019": true,
     "achievementTotem": {
       "canCustomize": true,
-      "allowed_max_height": 3,
+      "allowed_max_height": 4,
       "unlockedParts": [
         "birdy",
         "happy",
@@ -23997,7 +24024,8 @@
       "selectedParts": {
         "slot_0": "arrow",
         "slot_1": "arrow",
-        "slot_2": "birdy"
+        "slot_2": "arrow",
+        "slot_3": "birdy"
       },
       "unlockedColors": [
         "blue",
@@ -24513,7 +24541,12 @@
             "day1": 1701485513765,
             "day2": 1701657026588,
             "day3": 1701657032307,
-            "day5": 1701823053378
+            "day5": 1701823053378,
+            "day6": 1701903001633,
+            "day7": 1701988434798,
+            "day8": 1702086880082,
+            "day10": 1702262748362,
+            "day11": 1702340859357
           },
           "bingo": {
             "easy": {
@@ -24523,10 +24556,12 @@
             }
           },
           "levelling": {
-            "experience": 5448
+            "experience": 7503
           },
           "presents": {
-            "MAIN_LOBBY_2": true
+            "MAIN_LOBBY_2": true,
+            "BEDWARS_2": true,
+            "ARCADE_1": true
           }
         }
       },
@@ -24999,7 +25034,7 @@
     "Rowfive": [
       "seasonal.anniversary. 2023.bingo.easy.rewards"
     ],
-    "currentPet": "WOLF",
-    "fortuneBuff": 3
+    "fortuneBuff": 3,
+    "currentPet": "HORSE_CHESTNUT"
   }
 }

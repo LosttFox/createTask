@@ -1,14 +1,26 @@
 //
 //  PlayerData.swift
-//  createTask
+//  CreateTask
 //
-//  Created by Park, Andrew on 11/20/23.
+//  Created by Park, Andrew on 12/12/23.
 //
 
 import Foundation
 
-struct PlayerData : Decodable
+struct PlayerData : Decodable, Identifiable
 {
-    let success : Bool
-    let player : String
+    var id = UUID()
+    var uuid : String
+    var firstLogin : Double
+    var playername : String
+    var lastLogin : Double
+    var achievementsOneTime : [String]
+    
+    
+    
+    
+    var networkExp : Double
+    var karma : Double
+    
+    
 }

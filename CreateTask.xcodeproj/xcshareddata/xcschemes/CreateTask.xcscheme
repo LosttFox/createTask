@@ -17,7 +17,7 @@
                BlueprintIdentifier = "FA3E71862ADF1D0F00BA37C7"
                BuildableName = "CreateTask.app"
                BlueprintName = "CreateTask"
-               ReferencedContainer = "container:createTask.xcodeproj">
+               ReferencedContainer = "container:CreateTask.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -37,7 +37,7 @@
                BlueprintIdentifier = "FA3E71962ADF1D1100BA37C7"
                BuildableName = "CreateTaskTests.xctest"
                BlueprintName = "CreateTaskTests"
-               ReferencedContainer = "container:createTask.xcodeproj">
+               ReferencedContainer = "container:CreateTask.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -48,7 +48,7 @@
                BlueprintIdentifier = "FA3E71A02ADF1D1100BA37C7"
                BuildableName = "CreateTaskUITests.xctest"
                BlueprintName = "CreateTaskUITests"
-               ReferencedContainer = "container:createTask.xcodeproj">
+               ReferencedContainer = "container:CreateTask.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -70,7 +70,7 @@
             BlueprintIdentifier = "FA3E71862ADF1D0F00BA37C7"
             BuildableName = "CreateTask.app"
             BlueprintName = "CreateTask"
-            ReferencedContainer = "container:createTask.xcodeproj">
+            ReferencedContainer = "container:CreateTask.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -87,7 +87,7 @@
             BlueprintIdentifier = "FA3E71862ADF1D0F00BA37C7"
             BuildableName = "CreateTask.app"
             BlueprintName = "CreateTask"
-            ReferencedContainer = "container:createTask.xcodeproj">
+            ReferencedContainer = "container:CreateTask.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct TaskView: View 
+struct CreateView: View 
 {
     var body: some View
     {
@@ -24,5 +24,5 @@ struct TaskView: View
 
 #Preview 
 {
-    TaskView()
+    CreateView()
 }
