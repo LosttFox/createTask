@@ -16,9 +16,6 @@ struct PlayerData : Decodable, Identifiable
     var lastLogin : Double
     var achievementsOneTime : [String]
     
-    
-    
-    
     var networkExp : Double
     var karma : Double
     

@@ -9,6 +9,8 @@ import SwiftUI
 
 struct CreateView: View 
 {
+    @ObservedObject var playerData = ReturnDataStore(returns: loadJSON(from: "PlayerData") as! [ReturnData])
+    
     var body: some View
     {
         VStack
