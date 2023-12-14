@@ -9,6 +9,6 @@ import Foundation
 
 struct ReturnData : Decodable
 {
-    let success : Bool
-    let player : PlayerData
+    var success : Bool
+    var player : PlayerData
 }

@@ -7,7 +7,7 @@
 
 import Foundation
 
-func loadJSON (from file : String) -> [Any]
+func loadJSON (from file : String) -> Any
 {
     if let dataSourceURL = Bundle.main.url(forResource: file, withExtension: "json")
     {
@@ -18,7 +18,10 @@ func loadJSON (from file : String) -> [Any]
         {
             if (file == "PlayerData")
             {
-                let results = try decoder.decode([ReturnData].self, from: data)
+                let results = try decoder.decode(PlayerData.self, from: data)
+                
+                print("Player ID: \(results.player._id)")
+                
                 return results
             }
         }

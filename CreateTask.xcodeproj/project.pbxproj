@@ -17,9 +17,8 @@
 		FA4D0BD32B28EEC6005778DD /* PlayerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4D0BD22B28EEC6005778DD /* PlayerData.swift */; };
 		FA4D0BD52B28F86A005778DD /* Achievements.json in Resources */ = {isa = PBXBuildFile; fileRef = FA4D0BD42B28F86A005778DD /* Achievements.json */; };
 		FA4D0BD72B28FEE3005778DD /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4D0BD62B28FEE3005778DD /* Utilities.swift */; };
-		FA4D0BD92B290003005778DD /* ReturnDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4D0BD82B290003005778DD /* ReturnDataStore.swift */; };
-		FA8A69CD2B0BFCE700A4D6A6 /* ReturnData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8A69CC2B0BFCE700A4D6A6 /* ReturnData.swift */; };
 		FA9D85C52B21003D00417438 /* PlayerData.json in Resources */ = {isa = PBXBuildFile; fileRef = FA9D85C42B21003D00417438 /* PlayerData.json */; };
+		FAB9D9112B2A2EEE0072B25A /* PlayerDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB9D9102B2A2EEE0072B25A /* PlayerDataStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,9 +52,8 @@
 		FA4D0BD22B28EEC6005778DD /* PlayerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerData.swift; sourceTree = "<group>"; };
 		FA4D0BD42B28F86A005778DD /* Achievements.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Achievements.json; sourceTree = "<group>"; };
 		FA4D0BD62B28FEE3005778DD /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
-		FA4D0BD82B290003005778DD /* ReturnDataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReturnDataStore.swift; sourceTree = "<group>"; };
-		FA8A69CC2B0BFCE700A4D6A6 /* ReturnData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReturnData.swift; sourceTree = "<group>"; };
 		FA9D85C42B21003D00417438 /* PlayerData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PlayerData.json; sourceTree = "<group>"; };
+		FAB9D9102B2A2EEE0072B25A /* PlayerDataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerDataStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,9 +140,8 @@
 		FA8A69CB2B0BFC0300A4D6A6 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				FA8A69CC2B0BFCE700A4D6A6 /* ReturnData.swift */,
 				FA4D0BD22B28EEC6005778DD /* PlayerData.swift */,
-				FA4D0BD82B290003005778DD /* ReturnDataStore.swift */,
+				FAB9D9102B2A2EEE0072B25A /* PlayerDataStore.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -309,12 +306,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA8A69CD2B0BFCE700A4D6A6 /* ReturnData.swift in Sources */,
+				FAB9D9112B2A2EEE0072B25A /* PlayerDataStore.swift in Sources */,
 				FA3E718D2ADF1D0F00BA37C7 /* CreateView.swift in Sources */,
 				FA4D0BD32B28EEC6005778DD /* PlayerData.swift in Sources */,
 				FA4D0BD72B28FEE3005778DD /* Utilities.swift in Sources */,
 				FA3E718B2ADF1D0F00BA37C7 /* CreateTaskApp.swift in Sources */,
-				FA4D0BD92B290003005778DD /* ReturnDataStore.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

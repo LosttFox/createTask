@@ -9,16 +9,30 @@ import SwiftUI
 
 struct CreateView: View 
 {
-    @ObservedObject var playerData = ReturnDataStore(returns: loadJSON(from: "PlayerData") as! [ReturnData])
+//    @ObservedObject var playerData = PlayerDataStore(players: loadJSON(from: "PlayerData") as! PlayerData)
     
     var body: some View
     {
         VStack
         {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("The player is [username]")
+            Image(systemName: "heart")
+            
+            NavigationStack
+            {
+                List
+                {
+                    Section
+                    {
+                        
+                    }
+                    Section
+                    {
+                        
+                    }
+                }
+            }
+            
         }
         .padding()
     }
