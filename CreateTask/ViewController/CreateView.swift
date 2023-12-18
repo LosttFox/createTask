@@ -37,17 +37,17 @@ struct CreateView: View
             
         }
         .padding()
-//        .task 
-//        {
-//            do
-//            {
-//                playerData = try await getPlayerData()
-//            }
-//            catch
-//            {
-//                print(error.localizedDescription)
-//            }
-//        }
+        .task 
+        {
+            do
+            {
+                playerData = try await getPlayerData()
+            }
+            catch
+            {
+                print(error.localizedDescription)
+            }
+        }
     }
 }
 
