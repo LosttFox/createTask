@@ -10,10 +10,10 @@ import Combine
 
 class PlayerDataStore : ObservableObject
 {
-    @Published var players : PlayerData
+    @Published var call : PlayerData
     
-    init(players: PlayerData)
+    init(call: PlayerData)
     {
-        self.players = players
+        self.call = call
     }
 }

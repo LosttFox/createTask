@@ -24,6 +24,12 @@ func loadJSON (from file : String) -> Any
                 
                 return results
             }
+            else if (file == "DBData")
+            {
+                let results = try decoder.decode(DBData.self, from: data)
+                
+                return results
+            }
         }
         catch
         {

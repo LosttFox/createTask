@@ -9,14 +9,15 @@ import SwiftUI
 
 struct CreateView: View 
 {
-    @ObservedObject var playerData = PlayerDataStore(players: loadJSON(from: "PlayerData") as! PlayerData)
+//    @ObservedObject var playerData = PlayerDataStore(call: loadJSON(from: "PlayerData") as! PlayerData)
+//    @ObservedObject var dbData = DBDataStore(db: loadJSON(from: "PlayerDB") as! DBData)
     
     var body: some View
     {
         VStack
         {
-            Text("The player is \(playerData.players.player.playername)")
-            AsyncImage(url: URL(string: "https://crafthead.net/avatar/457fff364f6f4761bf2c4eef4a1b77a0"))
+            Text("The player is Name")
+//            AsyncImage(url: URL(string: dbData.db.data.player.avatar))
             
             NavigationStack
             {
