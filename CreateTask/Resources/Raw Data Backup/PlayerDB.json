@@ -1,0 +1,20 @@
+{
+  "code": "player.found",
+  "message": "Successfully found player by given ID.",
+  "data": 
+  {
+    "player":
+    {
+      "meta": 
+      {
+        "cached_at": 1702924358
+      },
+      "username": "LostFoxx",
+      "id": "457fff36-4f6f-4761-bf2c-4eef4a1b77a0",
+      "raw_id": "457fff364f6f4761bf2c4eef4a1b77a0",
+      "avatar": "https://crafthead.net/avatar/457fff364f6f4761bf2c4eef4a1b77a0",
+      "name_history": []
+    }
+  },
+  "success": true
+}
