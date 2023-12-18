@@ -9,14 +9,15 @@ import SwiftUI
 
 struct CreateView: View 
 {
-//    @ObservedObject var playerData = PlayerDataStore(call: loadJSON(from: "PlayerData") as! PlayerData)
+    @State private var playerData : PlayerData?
+    
 //    @ObservedObject var dbData = DBDataStore(db: loadJSON(from: "PlayerDB") as! DBData)
     
     var body: some View
     {
         VStack
         {
-            Text("The player is Name")
+            Text("The player is \(playerData?.player.displayname ?? "placeholder")")
 //            AsyncImage(url: URL(string: dbData.db.data.player.avatar))
             
             NavigationStack
@@ -36,6 +37,17 @@ struct CreateView: View
             
         }
         .padding()
+//        .task 
+//        {
+//            do
+//            {
+//                playerData = try await getPlayerData()
+//            }
+//            catch
+//            {
+//                print(error.localizedDescription)
+//            }
+//        }
     }
 }
 
